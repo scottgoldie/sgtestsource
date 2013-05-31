@@ -1,0 +1,3 @@
+[submodule "sgtestother"]
+	path = sgtestother
+	url = https://github.com/scottgoldie/sgtestother.git
